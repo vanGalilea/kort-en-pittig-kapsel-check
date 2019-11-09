@@ -1,0 +1,13 @@
+{
+  "tfjsVersion": "1.3.1",
+  "tmVersion": "1.1.0",
+  "packageVersion": "0.8.3",
+  "packageName": "@teachablemachine/image",
+  "timeStamp": "2019-11-09T14:05:53.165Z",
+  "userMetadata": {},
+  "modelName": "tm-my-image-model",
+  "labels": [
+    "is_kort_en_pittig",
+    "is_niet_kort_en_pittig"
+  ]
+}
